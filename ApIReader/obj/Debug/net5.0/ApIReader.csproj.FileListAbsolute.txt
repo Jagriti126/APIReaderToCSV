@@ -1,0 +1,32 @@
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\bin\Debug\net5.0\ApIReader.exe
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\bin\Debug\net5.0\ApIReader.deps.json
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\bin\Debug\net5.0\ApIReader.runtimeconfig.json
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\bin\Debug\net5.0\ApIReader.runtimeconfig.dev.json
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\bin\Debug\net5.0\ApIReader.dll
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\bin\Debug\net5.0\ApIReader.pdb
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\obj\Debug\net5.0\ApIReader.csproj.AssemblyReference.cache
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\obj\Debug\net5.0\ApIReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\obj\Debug\net5.0\ApIReader.AssemblyInfoInputs.cache
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\obj\Debug\net5.0\ApIReader.AssemblyInfo.cs
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\obj\Debug\net5.0\ApIReader.csproj.CoreCompileInputs.cache
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\obj\Debug\net5.0\ApIReader.dll
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\obj\Debug\net5.0\ref\ApIReader.dll
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\obj\Debug\net5.0\ApIReader.pdb
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\obj\Debug\net5.0\ApIReader.genruntimeconfig.cache
+C:\Users\parth\OneDrive\Desktop\kachra\ApIReader\obj\Debug\net5.0\refint\ApIReader.dll
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\bin\Debug\net5.0\ApIReader.exe
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\bin\Debug\net5.0\ApIReader.deps.json
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\bin\Debug\net5.0\ApIReader.runtimeconfig.json
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\bin\Debug\net5.0\ApIReader.runtimeconfig.dev.json
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\bin\Debug\net5.0\ApIReader.dll
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\bin\Debug\net5.0\ApIReader.pdb
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\obj\Debug\net5.0\ApIReader.csproj.AssemblyReference.cache
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\obj\Debug\net5.0\ApIReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\obj\Debug\net5.0\ApIReader.AssemblyInfoInputs.cache
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\obj\Debug\net5.0\ApIReader.AssemblyInfo.cs
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\obj\Debug\net5.0\ApIReader.csproj.CoreCompileInputs.cache
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\obj\Debug\net5.0\ApIReader.dll
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\obj\Debug\net5.0\refint\ApIReader.dll
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\obj\Debug\net5.0\ApIReader.pdb
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\obj\Debug\net5.0\ApIReader.genruntimeconfig.cache
+C:\Users\Success\Desktop\jagrity sharmaaa\ApIReader\obj\Debug\net5.0\ref\ApIReader.dll
